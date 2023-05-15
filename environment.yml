@@ -1,0 +1,7 @@
+name: steganogan_venv
+dependencies:
+  - python=3.5.2
+  - cudatoolkit=10.0.130 
+  - pip
+  - pip:
+    - steganogan==0.1.3
